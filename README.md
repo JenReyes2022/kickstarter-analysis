@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Peforming trend analysis for kickstarter campaings spefically related to US - Plays and GB - Musical 
+---
 [kickstarter analysis](analysisprojects/crowdfunding/kickstarter_analysis.xlxs)
 ---
 # Visualization of Kickstart Campaigns based on Outcomes
